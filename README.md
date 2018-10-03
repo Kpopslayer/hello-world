@@ -1,2 +1,4 @@
 # hello-world
-Just trying to learn and make progess.
+Hi there!
+
+Just trying to learn new things and make some actual progess.
